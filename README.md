@@ -9,7 +9,7 @@ A lightweight installable web app (PWA) for assigning and tracking tasks across 
 
 ## Deploy on GitHub Pages
 
-1. Create a new repository and upload all files in this folder (keep the `icons` folder).
+1. Create a new repository and upload all files in this folder (all files in the same place, no folders).
 2. Go to **Settings → Pages**, set **Source** to *Deploy from a branch*, choose `main` and `/ (root)`, then save.
 3. Open `https://<your-username>.github.io/<repo-name>/` after a minute.
 
